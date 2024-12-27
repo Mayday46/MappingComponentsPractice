@@ -1,4 +1,10 @@
 import React from "react";
+import Entry from "./Entry";
+
+// 1.Create sperate Entry components.
+// 2. Create props to replace hard coded data.
+// 3a. Import the emojipedia const.
+// 3b. Map through the emojipedia array and render Entry Components.
 
 function App() {
   return (
